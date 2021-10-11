@@ -14,6 +14,7 @@
   "author": "Miles Morlock",
   "license": "ISC",
   "dependencies": {
+    "font-awesome": "^4.7.0",
     "lite-server": "^2.6.1"
   }
 }
